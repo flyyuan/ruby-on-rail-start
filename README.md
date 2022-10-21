@@ -1,3 +1,5 @@
+TODO:https://guides.rubyonrails.org/getting_started.html#adding-a-second-model
+
 # README
 
 This README would normally document whatever steps are necessary to get the
